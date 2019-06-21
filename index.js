@@ -1,3 +1,3 @@
 console.error("HALP!")
 console.log("ALL CLEAR!")
-console.log("BAD IDEA!")
+console.warn("BAD IDEA!")
